@@ -1,17 +1,16 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
-    "icons": [
-      {
-        "src": "/assets/images/icons/icon-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      }
-    ]
-  }
-  
+  "name": "sp25-cse110-lab8",
+  "short_name": "Jonathan Cui",
+  "description": "A Progress Web App for Lab 8",
+  "start_url": "http://127.0.0.1:8000/",
+  "display": "standalone",
+  "background_color": "white",
+  "theme_color": "white",
+  "icons": [
+    {
+      "src": "/assets/images/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
